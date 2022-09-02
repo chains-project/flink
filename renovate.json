@@ -13,5 +13,6 @@
     }
   ],
   "platformAutomerge": true,
-  "includeForks": true
+  "includeForks": true,
+  "dependencyDashboard": true
 }
