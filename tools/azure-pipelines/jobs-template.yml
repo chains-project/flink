@@ -50,7 +50,7 @@ jobs:
   # (usually because a pom file has changed), we'll fall back to a key without
   # the pom files (CACHE_FALLBACK_KEY).
   # Offical documentation of the Cache task: https://docs.microsoft.com/en-us/azure/devops/pipelines/caching/?view=azure-devops
-  - task: Cache@2
+  - task: Cache@2.198.0
     inputs:
       key: $(CACHE_KEY)
       restoreKeys: $(CACHE_FALLBACK_KEY)
@@ -118,7 +118,7 @@ jobs:
   - script: ./tools/azure-pipelines/unpack_build_artifact.sh
     displayName: "Unpack Build artifact"
 
-  - task: Cache@2
+  - task: Cache@2.198.0
     inputs:
       key: $(CACHE_KEY)
       restoreKeys: $(CACHE_FALLBACK_KEY)
@@ -127,7 +127,7 @@ jobs:
     condition: not(eq('${{parameters.test_pool_definition.name}}', 'Default'))
     displayName: Cache Maven local repo
 
-  - task: Cache@2
+  - task: Cache@2.198.0
     inputs:
       key: '"$(module)" | $(DOCKER_IMAGES_CACHE_KEY)'
       path: $(DOCKER_IMAGES_CACHE_FOLDER)

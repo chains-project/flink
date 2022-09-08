@@ -21,7 +21,7 @@ jobs:
     workspace:
       clean: all
     steps:
-      - task: Cache@2
+      - task: Cache@2.198.0
         displayName: Cache Maven local repo
         inputs:
           key: $(CACHE_KEY)
@@ -69,7 +69,7 @@ jobs:
     workspace:
       clean: all
     steps:
-      - task: Cache@2
+      - task: Cache@2.198.0
         displayName: Cache Maven local repo
         inputs:
           key: $(CACHE_KEY)

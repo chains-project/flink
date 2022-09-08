@@ -52,7 +52,7 @@ jobs:
         mkdir -p $(E2E_TARBALL_CACHE)
         mkdir -p $(DOCKER_IMAGES_CACHE_FOLDER)
       displayName: Create cache directories
-    - task: Cache@2
+    - task: Cache@2.198.0
       inputs:
         key: $(CACHE_KEY)
         restoreKeys: $(CACHE_FALLBACK_KEY)
@@ -60,14 +60,14 @@ jobs:
       displayName: Cache Maven local repo
       continueOnError: true
       condition: not(eq(variables['SKIP'], '1'))
-    - task: Cache@2
+    - task: Cache@2.198.0
       inputs:
         key: e2e-cache-${{parameters.group}} | flink-end-to-end-tests/**/*.java, !**/avro/**
         path: $(E2E_CACHE_FOLDER)
       displayName: Cache E2E files
       continueOnError: true
       condition: not(eq(variables['SKIP'], '1'))
-    - task: Cache@2
+    - task: Cache@2.198.0
       inputs:
         key: e2e-artifact-cache-${{parameters.group}} | flink-end-to-end-tests/**/*.sh
         restoreKeys: e2e-artifact-cache-${{parameters.group}}
@@ -75,7 +75,7 @@ jobs:
       displayName: Cache E2E artifacts
       continueOnError: true
       condition: not(eq(variables['SKIP'], '1'))
-    - task: Cache@2
+    - task: Cache@2.198.0
       inputs:
         key: 'e2e-${{parameters.group}} | $(DOCKER_IMAGES_CACHE_KEY)'
         path: $(DOCKER_IMAGES_CACHE_FOLDER)
