@@ -159,7 +159,7 @@ jobs:
       IT_CASE_GLUE_SCHEMA_ACCESS_KEY: $(SECRET_GLUE_SCHEMA_ACCESS_KEY)
       IT_CASE_GLUE_SCHEMA_SECRET_KEY: $(SECRET_GLUE_SCHEMA_SECRET_KEY)
 
-  - task: PublishTestResults@2
+  - task: PublishTestResults@2.210.0
     condition: succeededOrFailed()
     inputs:
       testResultsFormat: 'JUnit'
