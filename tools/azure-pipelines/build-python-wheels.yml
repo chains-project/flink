@@ -22,7 +22,7 @@ jobs:
           cd flink-python
           bash dev/build-wheels.sh
         displayName: Build wheels
-      - task: PublishPipelineArtifact@0
+      - task: PublishPipelineArtifact@0.151.0
         inputs:
           artifactName: 'wheel_$(Agent.OS)_$(Agent.JobName)'
           targetPath: 'flink-python/dist'
@@ -39,7 +39,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install cibuildwheel==2.8.0
           cibuildwheel --platform macos --output-dir dist .
-      - task: PublishPipelineArtifact@0
+      - task: PublishPipelineArtifact@0.151.0
         inputs:
           artifactName: 'wheel_$(Agent.OS)_$(Agent.JobName)'
           targetPath: 'flink-python/dist'
