@@ -110,7 +110,7 @@ jobs:
     displayName: Free up disk space
 
   # download artifact from compile stage
-  - task: DownloadPipelineArtifact@2
+  - task: DownloadPipelineArtifact@2.198.0
     inputs:
       path: $(FLINK_ARTIFACT_DIR)
       artifact: FlinkCompileArtifact-${{parameters.stage_name}}
