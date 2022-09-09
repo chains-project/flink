@@ -79,7 +79,7 @@ stages:
           vmImage: 'ubuntu-20.04'
         steps:
           # Skip docs check if this is a pull request that doesn't contain a documentation change
-          - task: GoTool@0
+          - task: GoTool@0.207.0
             inputs:
               version: '1.18.1'
           - bash: |
@@ -154,7 +154,7 @@ stages:
         pool:
           vmImage: 'ubuntu-20.04'
         steps:
-          - task: GoTool@0
+          - task: GoTool@0.207.0
             inputs:
               version: '1.18.1'
           - script: ./tools/ci/docs.sh
