@@ -31,7 +31,7 @@ jobs:
     pool:
       vmImage: 'macOS-latest'
     steps:
-      - task: UsePythonVersion@0
+      - task: UsePythonVersion@0.206.0
         inputs:
           versionSpec: '3.9'
       - script: |
