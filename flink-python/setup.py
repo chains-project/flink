@@ -319,12 +319,12 @@ try:
     if sys.version_info < (3, 7):
         # python 3.6 upper and lower limit
         install_requires.append('numpy>=1.23.3,<1.24')
-        install_requires.append('pandas>=1.0,<1.2.0')
+        install_requires.append('pandas>=1.4,<1.5')
         install_requires.append('pyarrow>=0.15.1,<7.0.0')
     else:
         # python 3.7, 3.8 and 3.9 upper limit and M1 chip lower limit,
         install_requires.append('numpy>=1.23.3,<1.24.0')
-        install_requires.append('pandas>=1.3.0,<1.4.0')
+        install_requires.append('pandas>=1.4.4,<1.5.0')
         install_requires.append('pyarrow>=5.0.0,<9.0.0')
 
     setup(
