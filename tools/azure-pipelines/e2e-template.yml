@@ -119,7 +119,7 @@ jobs:
         IT_CASE_GLUE_SCHEMA_SECRET_KEY: $(SECRET_GLUE_SCHEMA_SECRET_KEY)
       condition: and(succeeded(), not(eq(variables['SKIP'], '1')))
       # upload debug artifacts
-    - task: PublishPipelineArtifact@1
+    - task: PublishPipelineArtifact@1.199.0
       condition: and(not(eq(variables['SKIP'], '1')), not(eq(variables['DEBUG_FILES_OUTPUT_DIR'], '')))
       displayName: Upload Logs
       inputs:

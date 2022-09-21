@@ -70,7 +70,7 @@ jobs:
     displayName: Compile
 
   # upload artifacts for next stage
-  - task: PublishPipelineArtifact@1
+  - task: PublishPipelineArtifact@1.199.0
     inputs:
       targetPath: $(FLINK_ARTIFACT_DIR)
       artifact: FlinkCompileArtifact-${{parameters.stage_name}}
@@ -165,7 +165,7 @@ jobs:
       testResultsFormat: 'JUnit'
 
   # upload debug artifacts
-  - task: PublishPipelineArtifact@1
+  - task: PublishPipelineArtifact@1.199.0
     condition: not(eq('$(DEBUG_FILES_OUTPUT_DIR)', ''))
     displayName: Upload Logs
     inputs:
