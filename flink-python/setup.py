@@ -312,7 +312,7 @@ try:
                         'cloudpickle==2.2.0', 'avro-python3>=1.10.2,!=1.9.2,<1.10.3',
                         'pytz>=2018.3', 'fastavro>=1.6.1,<1.7.0', 'requests>=2.26.0',
                         'protobuf<3.21',
-                        'pemja==0.2.5;'
+                        'pemja==0.2.6;'
                         'python_full_version >= "3.7" and platform_system != "Windows"',
                         'httplib2>=0.19.0,<=0.20.4', apache_flink_libraries_dependency]
 
