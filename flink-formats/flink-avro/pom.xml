@@ -209,7 +209,7 @@ under the License.
 			is properly used.-->
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
-				<version>2.6.1</version><!--$NO-MVN-MAN-VER$-->
+				<version>3.2.0</version><!--$NO-MVN-MAN-VER$-->
 				<executions>
 					<execution>
 						<id>remove-avroexternalprogram</id>
