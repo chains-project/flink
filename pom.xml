@@ -1382,7 +1382,7 @@ under the License.
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>2.6</version><!--$NO-MVN-MAN-VER$-->
+				<version>3.3.0</version><!--$NO-MVN-MAN-VER$-->
 				<configuration>
 					<archive>
 						<!-- Globally exclude maven metadata, because it may accidentally bundle files we don't intend to -->
