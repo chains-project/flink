@@ -35,7 +35,7 @@ under the License.
 	<properties>
 		<akka.version>2.6.20</akka.version>
 		<scala.binary.version>2.12</scala.binary.version>
-		<scala.version>2.13.9</scala.version>
+		<scala.version>2.13.10</scala.version>
 	</properties>
 
 	<dependencies>
