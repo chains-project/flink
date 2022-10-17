@@ -152,7 +152,7 @@ under the License.
 		<hamcrest.version>2.2</hamcrest.version>
 		<assertj.version>3.23.1</assertj.version>
 		<py4j.version>0.10.9.7</py4j.version>
-		<beam.version>2.41.0</beam.version>
+		<beam.version>2.42.0</beam.version>
 		<protoc.version>3.21.7</protoc.version>
 		<okhttp.version>4.10.0</okhttp.version>
 		<testcontainers.version>1.17.5</testcontainers.version>
