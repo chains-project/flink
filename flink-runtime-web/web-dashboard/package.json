@@ -24,7 +24,7 @@
     "@angular/platform-browser-dynamic": "13.3.11",
     "@angular/router": "13.3.11",
     "@antv/g2": "4.2.8",
-    "core-js": "3.25.5",
+    "core-js": "3.26.0",
     "d3": "7.6.1",
     "d3-flame-graph": "^4.1.1",
     "d3-tip": "^0.9.1",
