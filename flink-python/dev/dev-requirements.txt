@@ -12,8 +12,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-pip>=20.3
-setuptools>=18.0
+pip==22.3
+setuptools==65.5.0
 wheel
 apache-beam==2.42.0
 cython==0.29.32
@@ -25,12 +25,12 @@ pandas==1.5.1; python_version >= '3.7'
 pandas==1.5.1; python_version < '3.7'
 pyarrow==9.0.0; python_version >= '3.7'
 pyarrow==9.0.0; python_version < '3.7'
-pytz>=2018.3
+pytz==2022.5
 numpy==1.23.4; python_version >= '3.7'
 numpy==1.23.4; python_version < '3.7'
 fastavro==1.6.1
 grpcio==1.50.0
 grpcio-tools==1.50.0
 pemja==0.2.6; python_version >= '3.7' and platform_system != 'Windows'
-httplib2>=0.19.0,<=0.20.4
+httplib2==0.20.4
 protobuf==4.21.8
