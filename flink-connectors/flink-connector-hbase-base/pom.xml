@@ -33,7 +33,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<hbase.version>2.5.0</hbase.version>
+		<hbase.version>2.5.1</hbase.version>
 	</properties>
 
 	<dependencies>
