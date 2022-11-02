@@ -32,7 +32,7 @@ under the License.
 	<artifactId>flink-connector-aws-kinesis-firehose</artifactId>
 	<name>Flink : Connectors : Amazon Kinesis Data Firehose</name>
 	<properties>
-		<aws.sdk.version>2.18.7</aws.sdk.version>
+		<aws.sdk.version>2.18.9</aws.sdk.version>
 	</properties>
 
 	<packaging>jar</packaging>
