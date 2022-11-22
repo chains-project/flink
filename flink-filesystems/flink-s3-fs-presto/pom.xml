@@ -32,7 +32,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<presto.version>0.277</presto.version>
+		<presto.version>0.278</presto.version>
 	</properties>
 
 	<dependencies>
