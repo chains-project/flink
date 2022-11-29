@@ -94,7 +94,7 @@ under the License.
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpcore-nio</artifactId>
-			<version>4.4.15</version>
+			<version>4.4.16</version>
 		</dependency>
 
 		<!-- Tests -->
