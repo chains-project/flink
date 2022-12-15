@@ -562,7 +562,7 @@ under the License.
 				<!-- mockito/powermock mismatch -->
 				<groupId>net.bytebuddy</groupId>
 				<artifactId>byte-buddy</artifactId>
-				<version>1.12.19</version>
+				<version>1.12.20</version>
 			</dependency>
 
 			<dependency>
