@@ -35,7 +35,7 @@ under the License.
 		<aws.sdk.version>1.12.369</aws.sdk.version>
 		<aws.sdkv2.version>2.19.10</aws.sdkv2.version>
 		<aws.kinesis-kcl.version>1.14.9</aws.kinesis-kcl.version>
-		<aws.kinesis-kpl.version>0.14.13</aws.kinesis-kpl.version>
+		<aws.kinesis-kpl.version>0.15.0</aws.kinesis-kpl.version>
 		<aws.dynamodbstreams-kinesis-adapter.version>1.5.4</aws.dynamodbstreams-kinesis-adapter.version>
 		<httpclient.version>4.5.14</httpclient.version>
 		<httpcore.version>4.4.16</httpcore.version>
