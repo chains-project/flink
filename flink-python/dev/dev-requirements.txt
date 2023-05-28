@@ -33,4 +33,4 @@ grpcio==1.51.1
 grpcio-tools==1.51.1
 pemja==0.2.6; python_version >= '3.7' and platform_system != 'Windows'
 httplib2>=0.21.0,<=0.21.0
-protobuf==4.21.9
+protobuf==4.23.2
