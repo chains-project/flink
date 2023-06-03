@@ -139,7 +139,7 @@ under the License.
 		<scala.binary.version>2.12</scala.binary.version>
 		<chill.version>0.10.0</chill.version>
 		<!-- keep FlinkContainersBuilder#buildZookeeperContainer() in sync -->
-		<zookeeper.version>3.8.0</zookeeper.version>
+		<zookeeper.version>3.8.1</zookeeper.version>
 		<curator.version>5.4.0</curator.version>
 		<avro.version>1.11.1</avro.version>
 		<javax.activation.api.version>1.2.0</javax.activation.api.version>
