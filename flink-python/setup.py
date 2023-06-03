@@ -308,7 +308,7 @@ try:
         'pyflink.examples': ['*.py', '*/*.py'],
         'pyflink.bin': ['*']}
 
-    install_requires = ['py4j==0.10.9.7', 'python-dateutil==2.8.2', 'apache-beam==2.43.0',
+    install_requires = ['py4j==0.10.9.7', 'python-dateutil==2.8.2', 'apache-beam==2.48.0',
                         'cloudpickle==2.2.1', 'avro-python3>=1.10.2,!=1.9.2,<1.10.3',
                         'pytz>=2018.3', 'fastavro>=1.7.0,<1.8.0', 'requests>=2.26.0',
                         'protobuf<4.24',
