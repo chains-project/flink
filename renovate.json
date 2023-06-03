@@ -15,5 +15,6 @@
   "platformAutomerge": true,
   "includeForks": true,
   "dependencyDashboard": true,
-  "prConcurrentLimit": 100000
+  "prConcurrentLimit": 100000,
+  "prHourlyLimit":0
 }
