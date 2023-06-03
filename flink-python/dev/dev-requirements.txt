@@ -32,5 +32,5 @@ fastavro==1.7.4
 grpcio==1.54.2
 grpcio-tools==1.51.1
 pemja==0.2.6; python_version >= '3.7' and platform_system != 'Windows'
-httplib2>=0.21.0,<=0.21.0
+httplib2>=0.22.0,<=0.22.0
 protobuf==4.23.2
