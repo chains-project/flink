@@ -30,7 +30,7 @@ numpy==1.24.3; python_version >= '3.7'
 numpy==1.24.3; python_version < '3.7'
 fastavro==1.7.4
 grpcio==1.54.2
-grpcio-tools==1.51.1
+grpcio-tools==1.54.2
 pemja==0.2.6; python_version >= '3.7' and platform_system != 'Windows'
 httplib2>=0.22.0,<=0.22.0
 protobuf==4.23.2
