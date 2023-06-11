@@ -108,7 +108,7 @@ under the License.
 			<dependency>
 				<groupId>org.jetbrains</groupId>
 				<artifactId>annotations</artifactId>
-				<version>23.1.0</version>
+				<version>24.0.1</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
