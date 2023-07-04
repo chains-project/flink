@@ -93,7 +93,7 @@ under the License.
 			<dependency>
 				<groupId>org.checkerframework</groupId>
 				<artifactId>checker-qual</artifactId>
-				<version>3.35.0</version>
+				<version>3.36.0</version>
 			</dependency>
 			<dependency>
 				<groupId>com.squareup.okio</groupId>
