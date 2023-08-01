@@ -39,7 +39,7 @@ under the License.
 		<aws.dynamodbstreams-kinesis-adapter.version>1.6.0</aws.dynamodbstreams-kinesis-adapter.version>
 		<httpclient.version>4.5.14</httpclient.version>
 		<httpcore.version>4.4.16</httpcore.version>
-		<guava.version>32.1.1-jre</guava.version>
+		<guava.version>32.1.2-jre</guava.version>
 	</properties>
 
 	<packaging>jar</packaging>
