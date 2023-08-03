@@ -351,7 +351,7 @@ under the License.
 				<!-- HBase only works with Zookeper 3.4 -->
 				<groupId>org.apache.zookeeper</groupId>
 				<artifactId>zookeeper</artifactId>
-				<version>3.8.2</version>
+				<version>3.9.0</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>

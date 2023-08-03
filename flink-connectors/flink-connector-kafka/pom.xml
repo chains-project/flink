@@ -115,7 +115,7 @@ under the License.
 		<dependency>
 			<groupId>org.apache.zookeeper</groupId>
 			<artifactId>zookeeper</artifactId>
-			<version>3.8.2</version>
+			<version>3.9.0</version>
 			<scope>test</scope>
 		</dependency>
 
