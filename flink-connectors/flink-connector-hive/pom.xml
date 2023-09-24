@@ -38,7 +38,7 @@ under the License.
 		<hiverunner.version>6.0.1</hiverunner.version>
 		<reflections.version>0.10.2</reflections.version>
 		<derby.version>10.16.1.1</derby.version>
-		<hive.avro.version>1.11.2</hive.avro.version>
+		<hive.avro.version>1.11.3</hive.avro.version>
 	</properties>
 
 	<!-- Overwrite hadoop dependency management from flink-parent to use locally defined Hadoop version -->
