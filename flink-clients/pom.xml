@@ -165,7 +165,7 @@ under the License.
 			is properly used.-->
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
-				<version>3.3.1</version><!--$NO-MVN-MAN-VER$-->
+				<version>3.3.2</version><!--$NO-MVN-MAN-VER$-->
 				<executions>
 					<execution>
 						<id>remove-externaltestclasses</id>
