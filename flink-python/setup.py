@@ -310,7 +310,7 @@ try:
 
     install_requires = ['py4j==0.10.9.7', 'python-dateutil==2.8.2', 'apache-beam==2.51.0',
                         'cloudpickle==3.0.0', 'avro-python3>=1.10.2,!=1.9.2,<1.10.3',
-                        'pytz>=2018.3', 'fastavro>=1.8.0,<1.9.0', 'requests>=2.26.0',
+                        'pytz>=2018.3', 'fastavro>=1.9.0,<1.10.0', 'requests>=2.26.0',
                         'protobuf<4.25',
                         'pemja==0.4.1;'
                         'python_full_version >= "3.7" and platform_system != "Windows"',
