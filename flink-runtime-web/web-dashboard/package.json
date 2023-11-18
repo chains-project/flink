@@ -30,7 +30,7 @@
     "d3-tip": "^0.9.1",
     "dagre": "^0.8.5",
     "monaco-editor": "0.44.0",
-    "ng-zorro-antd": "16.0.0",
+    "ng-zorro-antd": "15.1.1",
     "rxjs": "7.5.7",
     "tslib": "^2.0.0",
     "zone.js": "0.14.2"
