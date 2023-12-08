@@ -36,7 +36,7 @@ under the License.
 
 	<!-- Allow users to pass custom connector versions -->
 	<properties>
-		<elasticsearch.version>8.11.1</elasticsearch.version>
+		<elasticsearch.version>8.11.2</elasticsearch.version>
 	</properties>
 
 	<dependencies>
