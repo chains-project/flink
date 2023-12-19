@@ -23,8 +23,8 @@ cloudpickle==3.0.0
 avro-python3==1.10.2
 pandas==2.1.4; python_version >= '3.7'
 pandas==2.1.4; python_version < '3.7'
-pyarrow==14.0.1; python_version >= '3.7'
-pyarrow==14.0.1; python_version < '3.7'
+pyarrow==14.0.2; python_version >= '3.7'
+pyarrow==14.0.2; python_version < '3.7'
 pytz>=2018.3
 numpy==1.26.2; python_version >= '3.7'
 numpy==1.26.2; python_version < '3.7'
