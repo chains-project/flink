@@ -26,8 +26,8 @@ pandas==2.1.4; python_version < '3.7'
 pyarrow==14.0.2; python_version >= '3.7'
 pyarrow==14.0.2; python_version < '3.7'
 pytz>=2018.3
-numpy==1.26.2; python_version >= '3.7'
-numpy==1.26.2; python_version < '3.7'
+numpy==1.26.3; python_version >= '3.7'
+numpy==1.26.3; python_version < '3.7'
 fastavro==1.9.2
 grpcio==1.60.0
 grpcio-tools==1.60.0
