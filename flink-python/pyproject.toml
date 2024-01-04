@@ -18,7 +18,7 @@
 [build-system]
 # Minimum requirements for the build system to execute.
 requires = [
-    "packaging==20.9; platform_machine=='arm64'",  # macos M1
+    "packaging==23.2; platform_machine=='arm64'",  # macos M1
     "setuptools>=18.0",
     "wheel",
     "apache-beam==2.38.0",
