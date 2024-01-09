@@ -28,7 +28,7 @@ pyarrow==14.0.2; python_version < '3.7'
 pytz>=2018.3
 numpy==1.26.3; python_version >= '3.7'
 numpy==1.26.3; python_version < '3.7'
-fastavro==1.9.2
+fastavro==1.9.3
 grpcio==1.60.0
 grpcio-tools==1.60.0
 pemja==0.4.1; python_version >= '3.7' and platform_system != 'Windows'
