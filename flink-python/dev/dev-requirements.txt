@@ -18,7 +18,7 @@ wheel
 apache-beam==2.52.0
 cython==3.0.7
 py4j==0.10.9.7
-python-dateutil==2.9.0
+python-dateutil==2.9.0.post0
 cloudpickle==3.0.0
 avro-python3==1.10.2
 pandas==2.2.1; python_version >= '3.7'
