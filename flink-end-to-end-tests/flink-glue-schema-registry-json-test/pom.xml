@@ -98,7 +98,7 @@ under the License.
 			<dependency>
 				<groupId>io.github.classgraph</groupId>
 				<artifactId>classgraph</artifactId>
-				<version>4.8.165</version>
+				<version>4.8.166</version>
 			</dependency>
 			<dependency>
 				<groupId>com.squareup.okio</groupId>
