@@ -15,7 +15,7 @@
 pip>=20.3
 setuptools>=18.0
 wheel
-apache-beam==2.52.0
+apache-beam==2.55.0
 cython==3.0.7
 py4j==0.10.9.7
 python-dateutil==2.9.0.post0
