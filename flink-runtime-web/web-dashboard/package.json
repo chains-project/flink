@@ -79,7 +79,7 @@
     "stylelint-order": "^6.0.0",
     "stylelint-prettier": "^5.0.0",
     "ts-node": "10.9.2",
-    "typescript": "4.8.4"
+    "typescript": "4.9.5"
   },
   "lint-staged": {
     "**/*.{ts,html}": [
