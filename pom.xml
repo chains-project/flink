@@ -2209,7 +2209,7 @@ under the License.
 					<!-- run via "mvn org.owasp:dependency-check-maven:aggregate" -->
 					<groupId>org.owasp</groupId>
 					<artifactId>dependency-check-maven</artifactId>
-					<version>9.0.9</version>
+					<version>9.1.0</version>
 					<configuration>
 						<format>ALL</format>
 						<skipSystemScope>true</skipSystemScope>
