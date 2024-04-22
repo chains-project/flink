@@ -68,7 +68,7 @@ under the License.
 		<dependency>
 			<groupId>org.jline</groupId>
 			<artifactId>jline-reader</artifactId>
-			<version>3.25.1</version>
+			<version>3.26.0</version>
 		</dependency>
 
 		<!-- configuration -->
