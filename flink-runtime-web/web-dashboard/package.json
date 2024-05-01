@@ -33,7 +33,7 @@
     "ng-zorro-antd": "13.4.0",
     "rxjs": "7.8.1",
     "tslib": "^2.0.0",
-    "zone.js": "0.14.4"
+    "zone.js": "0.14.5"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "17.3.3",
