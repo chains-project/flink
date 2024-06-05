@@ -32,7 +32,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<aws.sdk.version>1.12.735</aws.sdk.version>
+		<aws.sdk.version>1.12.736</aws.sdk.version>
 		<aws.sdkv2.version>2.25.66</aws.sdkv2.version>
 		<kotlin.version>2.0.0</kotlin.version>
 	</properties>
