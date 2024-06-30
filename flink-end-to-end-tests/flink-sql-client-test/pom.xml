@@ -88,7 +88,7 @@ under the License.
 					as we neither access nor package the kafka dependencies -->
 				<groupId>org.apache.kafka</groupId>
 				<artifactId>kafka-clients</artifactId>
-				<version>3.7.0</version>
+				<version>3.7.1</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
