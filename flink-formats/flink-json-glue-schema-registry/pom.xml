@@ -88,7 +88,7 @@ under the License.
 			<dependency>
 				<groupId>io.github.classgraph</groupId>
 				<artifactId>classgraph</artifactId>
-				<version>4.8.174</version>
+				<version>4.8.175</version>
 			</dependency>
 			<dependency>
 				<groupId>org.jetbrains</groupId>
