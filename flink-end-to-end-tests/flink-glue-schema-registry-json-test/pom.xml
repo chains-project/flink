@@ -88,7 +88,7 @@ under the License.
 			<dependency>
 				<groupId>org.jetbrains.kotlinx</groupId>
 				<artifactId>kotlinx-serialization-core-jvm</artifactId>
-				<version>1.7.1</version>
+				<version>1.7.2</version>
 			</dependency>
 			<dependency>
 				<groupId>org.checkerframework</groupId>
