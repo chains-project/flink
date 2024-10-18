@@ -33,7 +33,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<hbase.version>2.6.0-hadoop3</hbase.version>
+		<hbase.version>2.6.1-hadoop3</hbase.version>
 	</properties>
 
 	<dependencies>
