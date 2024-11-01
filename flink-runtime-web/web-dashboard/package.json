@@ -50,7 +50,7 @@
     "@types/dagre": "0.7.52",
     "@types/jasmine": "5.1.4",
     "@types/jasminewd2": "~2.0.10",
-    "@types/node": "16.18.116",
+    "@types/node": "16.18.118",
     "@typescript-eslint/eslint-plugin": "8.0.0",
     "@typescript-eslint/parser": "8.0.0",
     "eslint": "8.57.1",
