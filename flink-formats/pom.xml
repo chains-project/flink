@@ -30,7 +30,7 @@ under the License.
 	</parent>
 
 	<properties>
-		<flink.format.parquet.version>1.14.3</flink.format.parquet.version>
+		<flink.format.parquet.version>1.14.4</flink.format.parquet.version>
 		<guava.version>33.3.1-jre</guava.version>
 	</properties>
 
