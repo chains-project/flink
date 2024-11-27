@@ -34,7 +34,7 @@ under the License.
 	<properties>
 		<aws.sdk.version>1.12.779</aws.sdk.version>
 		<aws.sdkv2.version>2.29.22</aws.sdkv2.version>
-		<kotlin.version>2.0.21</kotlin.version>
+		<kotlin.version>2.1.0</kotlin.version>
 	</properties>
 
 	<dependencyManagement>
