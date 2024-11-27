@@ -33,7 +33,7 @@ under the License.
 	<packaging>pom</packaging>
 
 	<properties>
-		<dropwizard.version>4.2.28</dropwizard.version>
+		<dropwizard.version>4.2.29</dropwizard.version>
 	</properties>
 
 	<modules>
