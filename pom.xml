@@ -153,7 +153,7 @@ under the License.
 		<assertj.version>3.26.3</assertj.version>
 		<py4j.version>0.10.9.7</py4j.version>
 		<beam.version>2.61.0</beam.version>
-		<protoc.version>4.28.3</protoc.version>
+		<protoc.version>4.29.0</protoc.version>
 		<okhttp.version>5.0.0-alpha.14</okhttp.version>
 		<testcontainers.version>1.20.4</testcontainers.version>
 		<lz4.version>1.8.0</lz4.version>
