@@ -35,7 +35,7 @@ under the License.
 		<fs.gs.sdk.version>2.45.0</fs.gs.sdk.version>
 		<fs.gs.connector.version>3.0.4</fs.gs.connector.version>
 		<!-- Set this to the highest version of grpc artifacts from gcs-connector and google-cloud-storage -->
-		<fs.gs.grpc.version>1.68.2</fs.gs.grpc.version>
+		<fs.gs.grpc.version>1.69.0</fs.gs.grpc.version>
 	</properties>
 
 	<dependencies>
