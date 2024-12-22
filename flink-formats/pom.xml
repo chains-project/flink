@@ -31,7 +31,7 @@ under the License.
 
 	<properties>
 		<flink.format.parquet.version>1.15.0</flink.format.parquet.version>
-		<guava.version>33.3.1-jre</guava.version>
+		<guava.version>33.4.0-jre</guava.version>
 	</properties>
 
 	<artifactId>flink-formats</artifactId>
