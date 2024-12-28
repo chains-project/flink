@@ -34,7 +34,7 @@ under the License.
 
 	<properties>
 		<glue.schema.registry.version>1.1.22</glue.schema.registry.version>
-		<aws.sdkv2.version>2.29.42</aws.sdkv2.version>
+		<aws.sdkv2.version>2.29.43</aws.sdkv2.version>
 		<kotlin.version>2.1.0</kotlin.version>
 	</properties>
 
