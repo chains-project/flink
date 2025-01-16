@@ -320,12 +320,12 @@ try:
         # python 3.6 upper and lower limit
         install_requires.append('numpy>=2,<2.3')
         install_requires.append('pandas>=2,<2.3')
-        install_requires.append('pyarrow>=18.1.0,<18.2.0')
+        install_requires.append('pyarrow>=19.0.0,<19.1.0')
     else:
         # python 3.7, 3.8 and 3.9 upper limit and M1 chip lower limit,
         install_requires.append('numpy>=2.2.0,<2.3.0')
         install_requires.append('pandas>=2.2.0,<2.3.0')
-        install_requires.append('pyarrow>=18.1.0,<18.2.0')
+        install_requires.append('pyarrow>=19.0.0,<19.1.0')
 
     setup(
         name='apache-flink',
