@@ -150,7 +150,7 @@ under the License.
 		<mockito.version>5.15.2</mockito.version>
 		<powermock.version>2.0.9</powermock.version>
 		<hamcrest.version>3.0</hamcrest.version>
-		<assertj.version>3.27.2</assertj.version>
+		<assertj.version>3.27.3</assertj.version>
 		<py4j.version>0.10.9.9</py4j.version>
 		<beam.version>2.61.0</beam.version>
 		<protoc.version>4.29.3</protoc.version>
