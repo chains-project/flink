@@ -38,7 +38,7 @@ under the License.
 	<properties>
 		<!--driver 3.x works with 3.x and 4.x versions of Cassandra but driver 4.x is a complete refactoring with different API-->
 		<driver.version>4.0.0</driver.version>
-		<guava.version>33.4.7-android</guava.version>
+		<guava.version>33.4.7-jre</guava.version>
 	</properties>
 
 	<build>
