@@ -36,7 +36,7 @@ under the License.
 
 	<properties>
 		<postgres.version>42.7.5</postgres.version>
-		<oracle.version>23.7.0.25.01</oracle.version>
+		<oracle.version>23.8.0.25.04</oracle.version>
 	</properties>
 
 	<dependencies>
