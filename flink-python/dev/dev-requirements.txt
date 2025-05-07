@@ -31,6 +31,6 @@ numpy==2.2.5; python_version < '3.7'
 fastavro==1.10.0
 grpcio==1.71.0
 grpcio-tools==1.71.0
-pemja==0.5.0; python_version >= '3.7' and platform_system != 'Windows'
+pemja==0.5.1; python_version >= '3.7' and platform_system != 'Windows'
 httplib2>=0.22.0,<=0.22.0
 protobuf==6.30.2
