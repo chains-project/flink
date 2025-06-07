@@ -23,7 +23,7 @@
     "@angular/platform-browser": "20.0.2",
     "@angular/platform-browser-dynamic": "20.0.2",
     "@angular/router": "20.0.2",
-    "@antv/g2": "4.2.11",
+    "@antv/g2": "5.3.3",
     "core-js": "3.42.0",
     "d3": "7.9.0",
     "d3-flame-graph": "^4.1.1",
