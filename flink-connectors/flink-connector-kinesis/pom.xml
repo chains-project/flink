@@ -33,7 +33,7 @@ under the License.
 	<name>Flink : Connectors : Kinesis</name>
 	<properties>
 		<aws.sdk.version>1.12.788</aws.sdk.version>
-		<aws.sdkv2.version>2.31.78</aws.sdkv2.version>
+		<aws.sdkv2.version>2.32.0</aws.sdkv2.version>
 		<aws.kinesis-kcl.version>1.15.3</aws.kinesis-kcl.version>
 		<aws.kinesis-kpl.version>0.15.12</aws.kinesis-kpl.version>
 		<aws.dynamodbstreams-kinesis-adapter.version>2.0.0</aws.dynamodbstreams-kinesis-adapter.version>
