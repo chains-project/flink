@@ -167,7 +167,7 @@ under the License.
 		-->
 		<minikdc.version>3.4.1</minikdc.version>
 		<hive.version>4.0.1</hive.version>
-		<orc.version>2.1.3</orc.version>
+		<orc.version>2.2.0</orc.version>
 		<!--
 			Hive 2.3.4 relies on Hadoop 2.7.2 and later versions.
 			For Hadoop 2.7, the minor Hadoop version supported for flink-shaded-hadoop-2-uber is 2.7.5
