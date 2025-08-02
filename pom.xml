@@ -166,7 +166,7 @@ under the License.
 			to revisit the impact at that time.
 		-->
 		<minikdc.version>3.4.1</minikdc.version>
-		<hive.version>4.0.1</hive.version>
+		<hive.version>4.1.0</hive.version>
 		<orc.version>2.2.0</orc.version>
 		<!--
 			Hive 2.3.4 relies on Hadoop 2.7.2 and later versions.
