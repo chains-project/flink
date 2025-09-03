@@ -41,7 +41,7 @@ under the License.
 		<protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
 		<os-maven-plugin.version>1.7.1</os-maven-plugin.version>
 		<pulsar-commons-lang3.version>3.18.0</pulsar-commons-lang3.version>
-		<pulsar-netty.version>4.2.4.Final</pulsar-netty.version>
+		<pulsar-netty.version>4.2.5.Final</pulsar-netty.version>
 		<pulsar-grpc.version>1.75.0</pulsar-grpc.version>
 	</properties>
 
