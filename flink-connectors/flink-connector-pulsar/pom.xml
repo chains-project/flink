@@ -42,7 +42,7 @@ under the License.
 		<os-maven-plugin.version>1.7.1</os-maven-plugin.version>
 		<pulsar-commons-lang3.version>3.19.0</pulsar-commons-lang3.version>
 		<pulsar-netty.version>4.2.6.Final</pulsar-netty.version>
-		<pulsar-grpc.version>1.75.0</pulsar-grpc.version>
+		<pulsar-grpc.version>1.76.0</pulsar-grpc.version>
 	</properties>
 
 	<dependencies>
