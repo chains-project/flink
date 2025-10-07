@@ -32,7 +32,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<fs.gs.sdk.version>2.58.0</fs.gs.sdk.version>
+		<fs.gs.sdk.version>2.58.1</fs.gs.sdk.version>
 		<fs.gs.connector.version>3.1.8</fs.gs.connector.version>
 		<!-- Set this to the highest version of grpc artifacts from gcs-connector and google-cloud-storage -->
 		<fs.gs.grpc.version>1.75.0</fs.gs.grpc.version>
