@@ -154,7 +154,7 @@ under the License.
 		<py4j.version>0.10.9.9</py4j.version>
 		<beam.version>2.68.0</beam.version>
 		<protoc.version>4.32.1</protoc.version>
-		<okhttp.version>5.2.0</okhttp.version>
+		<okhttp.version>5.2.1</okhttp.version>
 		<testcontainers.version>1.21.3</testcontainers.version>
 		<lz4.version>1.8.0</lz4.version>
 		<japicmp.skip>false</japicmp.skip>
