@@ -162,7 +162,7 @@ under the License.
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>3.4.2</version><!--$NO-MVN-MAN-VER$-->
+				<version>3.5.0</version><!--$NO-MVN-MAN-VER$-->
 				<executions>
 					<!-- Default Execution -->
 					<execution>
