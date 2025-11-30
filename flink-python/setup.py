@@ -342,7 +342,7 @@ try:
         python_requires='>=3.6',
         install_requires=install_requires,
         cmdclass={'build_ext': build_ext},
-        tests_require=['pytest==8.4.2'],
+        tests_require=['pytest==9.0.1'],
         description='Apache Flink Python API',
         long_description=long_description,
         long_description_content_type='text/markdown',
