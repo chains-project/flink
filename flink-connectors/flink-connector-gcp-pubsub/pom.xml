@@ -35,7 +35,7 @@ under the License.
 	<packaging>jar</packaging>
 
 	<properties>
-		<google-cloud-libraries-bom.version>26.72.0</google-cloud-libraries-bom.version>
+		<google-cloud-libraries-bom.version>26.73.0</google-cloud-libraries-bom.version>
 	</properties>
 
 	<dependencyManagement>
