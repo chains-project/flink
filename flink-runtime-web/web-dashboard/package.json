@@ -48,7 +48,7 @@
     "@testing-library/angular": "19.0.0",
     "@types/d3": "^7.1.0",
     "@types/dagre": "0.7.53",
-    "@types/jasmine": "3.10.18",
+    "@types/jasmine": "5.1.15",
     "@types/jasminewd2": "~2.0.10",
     "@types/node": "24.10.1",
     "@typescript-eslint/eslint-plugin": "5.62.0",
